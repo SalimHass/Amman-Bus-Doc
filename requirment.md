@@ -2,11 +2,10 @@
 
 ## **Vision**
 
-
-<br>
+</br>
 
 ## **Scope**
 
-<br>
+</br>
 
 ## **Minimum Viable Product**
