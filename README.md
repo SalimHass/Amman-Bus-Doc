@@ -55,7 +55,7 @@ The features of Amman Bus Management System are:
 
 ### **Overall Features**
 
-![assets\features-1.PNG](assets\features-1.PNG)
+![assets\features-1.PNG](/assets/features-1.PNG)
 
 ### **Home Page**
 
@@ -133,7 +133,7 @@ The Amman Bus Management System has been built on the concept of separating the 
 
 - if you wish to only view the web application, just visit this deployed site:
 
-    
+
 </br>
 
 ## **Authors and Developers behind Amman Bus Management System**
