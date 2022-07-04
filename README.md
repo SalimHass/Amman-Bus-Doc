@@ -55,27 +55,27 @@ The features of Amman Bus Management System are:
 
 ### **Overall Features**
 
-![assets\features-1.PNG](assets\features-1.PNG)
+![assets\features-1.PNG](/assets/features-1.PNG)
 
 ### **Home Page**
 
-![assets\features-homepage.PNG](assets\features-homepage.PNG)
+![assets\features-homepage.PNG](assets/features-homepage.PNG)
 
 ### **Driver Sign-up Page**
 
-![assets\features-driver-signup-form.PNG](assets\features-driver-signup-form.PNG)
+![assets\features-driver-signup-form.PNG](assets/features-driver-signup-form.PNG)
 
 ### **Driver Interface**
 
-![assets\features-driver-interface.PNG](assets\features-driver-interface.PNG)
+![assets\features-driver-interface.PNG](assets/features-driver-interface.PNG)
 
 ## **Passenger Sign-up Page**
 
-![assets\features-passenger-signup-form.PNG](assets\features-passenger-signup-form.PNG)
+![assets\features-passenger-signup-form.PNG](assets/features-passenger-signup-form.PNG)
 
 ### **Passenger Interface**
 
-![assets\features-passenger-interface.PNG](assets\features-passenger-interface.PNG)
+![assets\features-passenger-interface.PNG](assets/features-passenger-interface.PNG)
 
 </br>
 
@@ -133,7 +133,7 @@ The Amman Bus Management System has been built on the concept of separating the 
 
 - if you wish to only view the web application, just visit this deployed site:
 
-    
+
 </br>
 
 ## **Authors and Developers behind Amman Bus Management System**
