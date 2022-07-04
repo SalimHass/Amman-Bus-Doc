@@ -112,12 +112,28 @@ The features of Amman Bus Management System are:
 
 The Amman Bus Management System has been built on the concept of separating the front and backend.
 
-```
 
 
+- If you wish to contribute to the code, follow these steps:
 
-```
+1. Clone the repo:
 
+    ```
+    ```
+
+2. Make sure you have Docker installed on your machine, whilst working.
+
+    And then open it, and run the following command:
+
+    ```
+    $ docker-compose build ---> to build the container
+
+    $ docker-compose up ----> to run the server
+    ```
+
+- if you wish to only view the web application, just visit this deployed site:
+
+    
 </br>
 
 ## **Authors and Developers behind Amman Bus Management System**
