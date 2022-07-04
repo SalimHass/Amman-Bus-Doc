@@ -59,23 +59,23 @@ The features of Amman Bus Management System are:
 
 ### **Home Page**
 
-![assets\features-homepage.PNG](assets\features-homepage.PNG)
+![assets\features-homepage.PNG](assets/features-homepage.PNG)
 
 ### **Driver Sign-up Page**
 
-![assets\features-driver-signup-form.PNG](assets\features-driver-signup-form.PNG)
+![assets\features-driver-signup-form.PNG](assets/features-driver-signup-form.PNG)
 
 ### **Driver Interface**
 
-![assets\features-driver-interface.PNG](assets\features-driver-interface.PNG)
+![assets\features-driver-interface.PNG](assets/features-driver-interface.PNG)
 
 ## **Passenger Sign-up Page**
 
-![assets\features-passenger-signup-form.PNG](assets\features-passenger-signup-form.PNG)
+![assets\features-passenger-signup-form.PNG](assets/features-passenger-signup-form.PNG)
 
 ### **Passenger Interface**
 
-![assets\features-passenger-interface.PNG](assets\features-passenger-interface.PNG)
+![assets\features-passenger-interface.PNG](assets/features-passenger-interface.PNG)
 
 </br>
 
