@@ -1,6 +1,6 @@
 # **Amman Bus Management System**
 
-Amman Bus Management System is a Full-Stack web application built with Python - Django for the backend, JavaScript - React JS for the frontend, and TailwindCSS for the styling.
+Amman Bus Management System is a Full-Stack web application built with Python - [Django](https://www.djangoproject.com/) for the backend, JavaScript - [React JS](https://reactjs.org/) for the frontend, and [TailwindCSS](https://tailwindcss.com/) for the styling.
 
 Through this web application the users would be able to keep track of various things regarding the buses's schedule and booking trips, and much more considering that the user is authenticated as either a driver or a passenger. But if the user is not registered or singed-in they'll still be able to view the buses's stations, routes and prices.
 
@@ -74,7 +74,7 @@ The features of Amman Bus Management System are:
 
 ![assets\features-driver-interface.PNG](assets/features-driver-interface.PNG)
 
-## **Passenger Sign-up Page**
+### **Passenger Sign-up Page**
 
 ![assets\features-passenger-signup-form.PNG](assets/features-passenger-signup-form.PNG)
 
@@ -111,6 +111,10 @@ The features of Amman Bus Management System are:
 </br>
 
 ## **Amman Bus Management System Visual**
+
+To view and better understand the web application, refer to this file, where we explained the functionalities fully.
+
+[The_Interfaces.md](The_Interfaces.md)
 
 </br>
 
