@@ -1,8 +1,8 @@
 # **Amman Bus Management System**
 
-Amman Bus Management System is a Full-Stack web application built with Python - Django for the backend, JavaScript - React JS for the frontend, and TailwindCSS for the styling.
+Amman Bus Management System is a Full-Stack web application built with Python - [Django](https://www.djangoproject.com/) for the backend, JavaScript - [React JS](https://reactjs.org/) for the frontend, and [TailwindCSS](https://tailwindcss.com/) for the styling.
 
-Through this web application the users would be able to keep track of various things based on their authentication, and if the user is not registered or singed-in they'll still be able to view the buses's stations, routes and prices.
+Through this web application the users would be able to keep track of various things regarding the buses's schedule and booking trips, and much more considering that the user is authenticated as either a driver or a passenger. But if the user is not registered or singed-in they'll still be able to view the buses's stations, routes and prices.
 
 </br>
 
@@ -20,7 +20,7 @@ The features of Amman Bus Management System are:
         2. Stations: showcases the points at which the buses collect passengers.
         3. Routes: showcases more detailed information about the paths that the buses take, and how much they usually take.
         4. Prices: showcases the fixed prices for each bus trip.
-        5. services: showcases the
+        5. services: This page would only be rendered to registered users; drivers and passengers, to show them detailed information that concerns them.
     
     The homepage is also where users can sign-up & sign-in as either drives or passengers, and by doing so they'll be granted different authentications.
 
@@ -36,17 +36,22 @@ The features of Amman Bus Management System are:
 
 - **Driver Interface:**
 
-    This page would be rendered to the signed-in driver, and the content that's is rendered would only be relative the driver not any other user, this content would include the following:
+    This page would be rendered to the signed-in driver, only after clicking on *services* from the Navbar. 
+    
+    The content that's going to be rendered would only be relative the driver, this content would include the following:
 
-        - bus capacity.
-        - notifying the passengers about the buses's location.
+        - Scan QR-Code: to scan the QR code of the passengers as a verification method.
 
 - **Passenger Interface:**
     
-    This page would be rendered to the signed-in passenger, and the content that's is rendered would only be relative the passenger not any other user, this content would include the following:
+    This page would be rendered to the signed-in passenger, only after clicking on *services* from the Navbar. 
+    
+    The content that's going to be rendered would only be relative the passenger, this content would include the following:
 
-        - online payment.
-        - trip's prices.
+        - Plan Your Trip: where the passenger can select pick-up and drop-off stations on the map.
+        - Available Buses: To view available buses.
+        - My Plan's QR-Code: To render a QR-Code after choosing a plan.
+        
 
 
 </br>
@@ -69,7 +74,7 @@ The features of Amman Bus Management System are:
 
 ![assets\features-driver-interface.PNG](assets/features-driver-interface.PNG)
 
-## **Passenger Sign-up Page**
+### **Passenger Sign-up Page**
 
 ![assets\features-passenger-signup-form.PNG](assets/features-passenger-signup-form.PNG)
 
@@ -88,6 +93,7 @@ The features of Amman Bus Management System are:
     - Poetry
     - Pip
 
+
 - #### **For the frontend:**
     - React JS
     - TailwindCSS
@@ -105,6 +111,10 @@ The features of Amman Bus Management System are:
 </br>
 
 ## **Amman Bus Management System Visual**
+
+To view and better understand the web application, refer to this file, where we explained the functionalities fully.
+
+[The_Interfaces.md](The_Interfaces.md)
 
 </br>
 
